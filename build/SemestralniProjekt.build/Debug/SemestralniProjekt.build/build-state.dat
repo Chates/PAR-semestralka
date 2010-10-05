@@ -1,0 +1,65 @@
+TSemestralniProjekt
+v7
+r0
+t308009852.375349
+cCheck dependencies
+cCompileC build/SemestralniProjekt.build/Debug/SemestralniProjekt.build/Objects-normal/x86_64/main.o "/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/build/Debug/SemestralniProjekt" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/build/Debug/SemestralniProjekt
+t1286317052
+s10960
+
+N/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/build/SemestralniProjekt.build/Debug/SemestralniProjekt.build/Objects-normal/x86_64/SemestralniProjekt.LinkFileList
+c000000004CAA3B180000000000000092
+t1286224664
+s146
+
+N/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/build/SemestralniProjekt.build/Debug/SemestralniProjekt.build/Objects-normal/x86_64/main.o
+t1286317044
+s48320
+
+N/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/main.cpp
+c000000004CABA3F4000000000000043B
+t1286317044
+s1083
+i<iostream>
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308009852#308009852#0(0"0(0#1#0"8621379072#0"0#
+
+CCompileC build/SemestralniProjekt.build/Debug/SemestralniProjekt.build/Objects-normal/x86_64/main.o "/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s308009852.200982
+e308009852.202035
+r1
+xCompileC
+xbuild/SemestralniProjekt.build/Debug/SemestralniProjekt.build/Objects-normal/x86_64/main.o
+x/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/main.cpp308009852#308009852#0(0"0(0#0#63"/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/main.cpp8622195584#1687"    cd "/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/build/SemestralniProjekt.build/Debug/SemestralniProjekt.build/SemestralniProjekt-generated-files.hmap" "-I/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/build/SemestralniProjekt.build/Debug/SemestralniProjekt.build/SemestralniProjekt-own-target-headers.hmap" "-I/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/build/SemestralniProjekt.build/Debug/SemestralniProjekt.build/SemestralniProjekt-all-target-headers.hmap" -iquote "/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/build/SemestralniProjekt.build/Debug/SemestralniProjekt.build/SemestralniProjekt-project-headers.hmap" "-F/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/build/Debug" "-I/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/build/Debug/include" "-I/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/build/SemestralniProjekt.build/Debug/SemestralniProjekt.build/DerivedSources/x86_64" "-I/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/build/SemestralniProjekt.build/Debug/SemestralniProjekt.build/DerivedSources" -c "/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/main.cpp" -o "/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/build/SemestralniProjekt.build/Debug/SemestralniProjekt.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/build/Debug/SemestralniProjekt" normal x86_64
+s308009852.202098
+e308009852.375303
+r1
+xLd
+x/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/build/Debug/SemestralniProjekt
+xnormal
+xx86_64
+lSLF07#2@90"Link /Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/build/Debug/SemestralniProjekt308009852#308009852#0(0"0(0#0#0"8618708768#632"    cd "/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/build/Debug" "-F/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/build/Debug" -filelist "/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/build/SemestralniProjekt.build/Debug/SemestralniProjekt.build/Objects-normal/x86_64/SemestralniProjekt.LinkFileList" -mmacosx-version-min=10.6 -o "/Volumes/Macintosh HDD 2/ČVUT/PAR/SemestralniProjekt/build/Debug/SemestralniProjekt"0#
+
